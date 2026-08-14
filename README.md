@@ -77,3 +77,10 @@ The complete system works as follows:
              │ Distance         │
              │ Object Detection │
              └──────────────────┘
+## 🎥 Demo
+
+Watch the Arduino Radar in action:
+
+[![Arduino Radar Demo](https://img.youtube.com/vi/O_y4yvUxZsg/maxresdefault.jpg)](https://www.youtube.com/watch?v=O_y4yvUxZsg)
+
+▶️ **[Watch the full demo on YouTube](https://www.youtube.com/watch?v=O_y4yvUxZsg)**
